@@ -1,5 +1,3 @@
-package fc1_b01;
-
 import java.util.Scanner;
 
 class Nguoi {
